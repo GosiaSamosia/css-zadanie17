@@ -1,0 +1,19 @@
+body{
+
+}
+
+h1 {
+    color:blue;
+    margin: auto;
+    text-align:center;
+}
+
+div {
+    width: 600px;
+    text-align:center;
+    margin: auto;
+}
+
+.txt-red {
+    color:red;
+}
